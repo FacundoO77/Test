@@ -1,21 +1,35 @@
-# 🚀 My First GitHub Repository
+📌 Index
+- Info
+- About project.
+- Technologies
+- Contact
 
-Welcome!  
-This repository is my starting point on GitHub, where I will experiment with technologies I'm currently learning — or planning to learn — and document my journey as a developer.
+## 📃 Info
 
-## 📚 About Me
-- 💻 Passionate about software development  
-- 📈 Interested in trading, web scraping, automation, and data analysis  
-- 🌱 Currently improving my skills in Python, automation, and web development  
+This project was created for the Mobile Development workshop at my university. It can be adapted for other APIs or web environments.
 
-## 📂 Contents
-This repository will include:
-- Small scripts
-- Test projects
-- Learning experiments
+## 💻 About project.
 
----
-📫 **Connect with me:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/facundo-orto%C3%B1o-917203222/)
+This web app was designed to transfer data through an API and develop a functional site with JavaScript and IONIC for mobile.
 
-✉️ Email: *facundoortono@gmail.com*
+- The idea is an interactive website where users can add evaluations/goals to organize their classes or activities.
+- There is an interactive map using Leaflet that dynamically loads the number of users registered in the system and their respective countries.
+
+## 🛠 Technologies
+
+Programming lenguages: HTML, JavaScript, CSS.
+
+Frameworks: IONIC
+
+Tools, other software: Postman, Chrome DevTools.
+
+
+📫 Contact
+
+Name: Facundo Ortoño
+
+Email: facundoortono@gmail.com
+
+GitHub: github.com/FacundoO77
+
+LinkedIn: www.linkedin.com/in/facundo-orto%C3%B1o-917203222/
