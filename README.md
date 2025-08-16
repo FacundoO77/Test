@@ -17,7 +17,7 @@ This web app was designed to transfer data through an API and develop a function
 
 ## 🛠 Technologies
 
-Programming lenguages: HTML, JavaScript, CSS.
+Programming Languages: HTML, JavaScript, CSS.
 
 Frameworks: IONIC
 
